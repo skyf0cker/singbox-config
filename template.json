@@ -148,7 +148,7 @@
                 "outbound": "direct"
             },
             {
-                "port": "22",
+                "port": 22,
                 "outbound": "direct"
             }
         ],
