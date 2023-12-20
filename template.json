@@ -101,11 +101,6 @@
             "tag": "香港",
             "type": "urltest",
             "outbounds": ["include: 香港"]
-        },
-        {
-            "tag": "手动选择",
-            "type": "selector",
-            "outbounds": ["include: .*"]
         }
     ],
     "route": {
