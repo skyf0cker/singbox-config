@@ -136,6 +136,10 @@
                 "outbound": "美国"
             },
             {
+                "geosite": "telegram",
+                "outbound": "香港"
+            },
+            {
                 "geoip": ["cn", "private"],
                 "outbound": "direct"
             },
